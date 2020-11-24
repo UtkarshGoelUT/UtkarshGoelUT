@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=UtkarshGoelUT&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+### Technologies I use
+[react]<img src="https://img.icons8.com/plasticine/100/000000/react.png"/> [firebase]<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
