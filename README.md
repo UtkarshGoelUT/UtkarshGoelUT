@@ -1,5 +1,4 @@
-## Hi there, I'm Utkarsh 👋
-## I'm a Student, Full-stack developer and Compititve Programmer!
+## Hi there, I'm Utkarsh 👋## I'm a Student, Full-stack developer and Compititve Programmer!
 
 <img src="https://github-readme-stats.vercel.app/api?username=UtkarshGoelUT&&show_icons=true" />
 
