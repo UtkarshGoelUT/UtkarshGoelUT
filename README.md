@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on some Projects
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I love to code
+- ⚡ Fun fact: I love to code and listen music!
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/utkarshgoelut/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
