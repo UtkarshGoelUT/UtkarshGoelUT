@@ -2,7 +2,7 @@
 ### I'm a Student, Full-stack developer and Compititve Programmer!
 
 <img src="https://github-readme-stats.vercel.app/api?username=UtkarshGoelUT&&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshGoelUT" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshGoelUT&layout=compact" />
 
 - 🔭 I’m currently working on some Projects
 - 🌱 I’m currently learning Web Development
